@@ -1,5 +1,5 @@
-# Replace YOUR_RENDER_URL with your actual Render URL (e.g., https://your-app.onrender.com)
-RENDER_URL="YOUR_RENDER_URL"
+# OAuth Sandbox API Endpoint
+RENDER_URL="https://oauth-sandbox-api.onrender.com"
 
 # ==========================================
 # OAUTH FLOW (if you want to test full flow)
